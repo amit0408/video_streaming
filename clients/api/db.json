@@ -1,0 +1,28 @@
+{
+  "streams": [
+    {
+      "title": "AMIT STREAM",
+      "description": "QUINNOX",
+      "userId": "100489942517347237453",
+      "id": 4
+    },
+    {
+      "title": "ARPIT",
+      "description": "REACT EXPERTISE",
+      "userId": "100489942517347237453",
+      "id": 5
+    },
+    {
+      "title": "ANKIT",
+      "description": "FULL STACK",
+      "userId": "100489942517347237453",
+      "id": 6
+    },
+    {
+      "title": "Prashant",
+      "description": "Sekhar",
+      "userId": "100489942517347237453",
+      "id": 7
+    }
+  ]
+}
